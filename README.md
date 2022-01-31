@@ -37,11 +37,6 @@ Here are some ideas to get you started:
  
 ## How to reach me... 🎯
 
-<a href="https://github.com/LeoAlvarenga/">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/28967925?v=4" width="100px;" alt=""/>
- <br />
- <sub><b>Leonardo Alvarenga</b></sub></a> <a href="https://github.com/LeoAlvarenga" title="Github">🚀</a>
-
 
  [![Linkedin Badge](https://img.shields.io/badge/-Leonardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leoalvarenga95/)](https://www.linkedin.com/in/leoalvarenga95/) 
-[![Hotmail Badge](https://img.shields.io/badge/-leo.alvarenga08@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leo.alvarenga08@hotmail.com)](mailto:leo.alvarenga08@hotmail.com)
+[![Outlook Badge](https://img.shields.io/badge/-leo.alvarenga08@hotmail.com-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:leo.alvarenga08@hotmail.com)](mailto:leo.alvarenga08@hotmail.com)
