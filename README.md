@@ -1,4 +1,4 @@
-# Oh, hello there 👋! It's me, Leonardo!
+# Oh, hello there 👋! I'm Leonardo!
 ### Welcome to my Github Profile! Feel Free to look, contribute or just talk! 😄
 
 <!--
@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 
 
  [![Linkedin Badge](https://img.shields.io/badge/-Leonardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leoalvarenga95/)](https://www.linkedin.com/in/leoalvarenga95/) 
-[![Outlook Badge](https://img.shields.io/badge/-leo.alvarenga08@hotmail.com-c0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:leo.alvarenga08@hotmail.com)](mailto:leo.alvarenga08@hotmail.com)
+[![Outlook Badge](https://img.shields.io/badge/-leo.alvarenga08@hotmail.com-blue?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:leo.alvarenga08@hotmail.com)](mailto:leo.alvarenga08@hotmail.com)
