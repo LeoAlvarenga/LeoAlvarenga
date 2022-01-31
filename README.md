@@ -1,4 +1,4 @@
-# Oh, hello there 👋! I'm Leonardo!
+# Hello there!👋 I'm Leonardo!
 ### Welcome to my Github Profile! Feel Free to look, contribute or just talk! 😄
 
 <!--
