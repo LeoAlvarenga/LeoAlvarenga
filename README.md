@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About me 🦅
-- 👨‍💻 Mid Front-end Developer
+- 👨‍💻 Front-end Developer
 - 📜 Graduated in the Computer Systems Analyst Associate's Degree from <a href="https://www.ucsal.br/">UCSAL</a>
 - Born in Salvador, Bahia, Brazil.
 - Currently living in Toronto, Ontario, Canada.
@@ -31,6 +31,7 @@ Here are some ideas to get you started:
  - ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=blue)
  - ![NodeJS](https://img.shields.io/static/v1?label=&message=NodeJS&color=brightgreen)
  - ![React](https://img.shields.io/badge/-React-ff69b4)
+ - ![NextJS](https://img.shields.io/badge/-NextJS-ff69b4)
  - ![React Native](https://img.shields.io/badge/-React%20Native-9cf)
 
 
